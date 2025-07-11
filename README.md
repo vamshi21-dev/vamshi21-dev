@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vamshi Boya</h1>
+<h1 align="center">Hi 👋, I'm Vamshi </h1>
 <h3 align="center">🚀 Passionate Java Developer | Final-Year B.Tech Student | Learning & Building</h3>
 
 <p align="center">
