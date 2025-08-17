@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I am Vamshi </h1>
-<h3 align="center">🚀 Passionate Java Developer | Final-Year B.Tech Student | Learning & Building</h3>
+<h3 align="center"> Passionate Java Developer | Final-Year B.Tech Student | Learning & Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=💻+Java+%7C+MySQL+%7C+HTML+%7C+CSS;🚀+Internships+%7C+TCS+iON+Certified;📚+Always+Learning+%7C+Projects+Coming+Soon!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Java+%7C+MySQL+%7C+HTML+%7C+CSS;+Internships+%7C+TCS+iON+Certified;Always+Learning+%7C+Projects+Coming+Soon!" />
 </p>
 
 ---
